@@ -518,7 +518,20 @@ footer .social img {
 
 @media only screen and (max-width: 767px) {
 
-  
+   /********GALLERY********/
+
+   #gallery img {
+       width: 130%;
+   }
+
+   /********ABOUT********/
+
+   #about img {
+       width: 130%;
+   }
+
+
+
     /********FOOTER********/
 
     footer .container {
